@@ -32,7 +32,7 @@ graph TD
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/end-to-end-data-pipeline.git
+git clone https://github.com/Darwee4/end-to-end-data-pipeline.git
 cd end-to-end-data-pipeline
 ```
 
